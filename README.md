@@ -4,3 +4,4 @@
 ## Requirements
 - Minimum Android level: Android 4.4 - KitKat (API level 19)
 - Recommended resolution: HD or Full HD
+- Minimum 60MB free space
